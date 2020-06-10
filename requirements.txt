@@ -16,7 +16,6 @@ psycopg2
 PySimpleGUI
 regex
 sklearn
-Tcl
 textblob
 textwrap3
 tqdm
