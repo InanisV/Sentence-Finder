@@ -14,13 +14,9 @@ Pillow
 Pillow-PIL
 psycopg2
 PySimpleGUI
-queuelib
 regex
-scipy
 sklearn
-sqlparse
 Tcl
 textblob
 textwrap3
 tqdm
-wordnet
