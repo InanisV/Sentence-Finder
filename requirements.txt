@@ -14,11 +14,6 @@ Pillow
 Pillow-PIL
 psycopg2
 PySimpleGUI
-python-dateutil
-python-pytuntap
-pywin32
-pywin32-ctypes
-pywinpty
 queuelib
 regex
 scipy
